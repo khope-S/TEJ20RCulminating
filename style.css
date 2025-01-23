@@ -52,3 +52,11 @@ h1{
   .intro-text {
       flex: 1; /* Allow the text to take up remaining space */
   }
+  
+  .float-left {
+      float: left;
+      margin-right: 15px; /* Space between image and text */
+      width: 200px;
+      height: auto;
+  }
+
