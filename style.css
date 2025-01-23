@@ -37,3 +37,17 @@ h1{
       max-width: 900px; /* Limit the width of the content */
       margin: 0 auto; /* Center the content horizontally */
       padding: 0 20px; /* Add padding to the sides */
+ .intro-container {
+      display: flex; /* Use flexbox to align items horizontally */
+      align-items: center; /* Vertically align items */
+      gap: 20px; /* Add space between the image and text */
+    }
+  .intro-container img {
+      width: 200px;
+      height: 280px;
+      border-radius: 20px;
+      border: 1px solid #d0d7de;
+    }
+  .intro-text {
+      flex: 1; /* Allow the text to take up remaining space */
+  }
