@@ -44,11 +44,11 @@ h1{
     }
   .intro-container img {
     float: left;
-      width: 200px;
-      height: 280px;
-      border-radius: 20px;
-      border: 1px solid #d0d7de;
-    }
+    width: 200px;
+    height: 280px;
+    border-radius: 20px;
+    border: 1px solid #d0d7de;
+  }
   .intro-text {
       flex: 1; /* Allow the text to take up remaining space */
   }
