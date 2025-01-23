@@ -28,3 +28,8 @@ h1{
 .navbar li{
   float: right;
 }
+ body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      line-height: 1.6; /* Improve readability */
+ }
