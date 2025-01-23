@@ -33,3 +33,7 @@ h1{
       margin: 0;
       line-height: 1.6; /* Improve readability */
  }
+.content {
+      max-width: 900px; /* Limit the width of the content */
+      margin: 0 auto; /* Center the content horizontally */
+      padding: 0 20px; /* Add padding to the sides */
