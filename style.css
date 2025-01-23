@@ -1,5 +1,9 @@
 body{
   margin: 20px
+  background-image: url('images/whitebackground.jpg'); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
 }
 main{
   margin-left: 20px
